@@ -20,5 +20,16 @@ Este es un App de consola sobre informacion de Libro y Autores,  utilizando una 
    
 2. Abre el proyecto en IntelliJ IDEA.
 
-3. Asegúrate de tener la biblioteca Gson en tu proyecto. Puedes agregarla a través de Maven o descargando el JAR manualmente.
+3. Asegúrate de tener la biblioteca las dependecias maven en tu proyecto (pom.xml). 
+
+###Dependecias usadas
+
+
+  ```sh
+   - lombok 
+   - postgresql
+   - spring-boot-starter-data-jpa
+   - jackson-databind
+   - spring-boot-starter
+   ```
 
