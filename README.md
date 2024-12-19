@@ -22,7 +22,7 @@ Este es un App de consola sobre informacion de Libro y Autores,  utilizando una 
 
 3. Asegúrate de tener la biblioteca las dependecias maven en tu proyecto (pom.xml). 
 
-###Dependecias usadas
+### Dependecias usadas
 
 
   ```sh
