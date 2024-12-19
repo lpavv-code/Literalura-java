@@ -17,3 +17,8 @@ Este es un App de consola sobre informacion de Libro y Autores,  utilizando una 
    ```sh
    git clone https://github.com/lpavv-code/Literalura-java.git
    ```
+   
+2. Abre el proyecto en IntelliJ IDEA.
+
+3. Asegúrate de tener la biblioteca Gson en tu proyecto. Puedes agregarla a través de Maven o descargando el JAR manualmente.
+
